@@ -5,8 +5,12 @@ Simple color-based object detection using OpenCV in Python.
 ## Requirements
 
 - Python 3.x
-- OpenCV (`opencv-python`)
-- NumPy
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Run
 
